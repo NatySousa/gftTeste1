@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GftTeste1", "GftTeste1\GftTeste1.csproj", "{01C0B187-EDD7-4B86-918A-59FA7DD6AFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C0B187-EDD7-4B86-918A-59FA7DD6AFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C0B187-EDD7-4B86-918A-59FA7DD6AFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C0B187-EDD7-4B86-918A-59FA7DD6AFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C0B187-EDD7-4B86-918A-59FA7DD6AFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8309E426-6F58-4438-9A5D-50C3090AE0D9}
+	EndGlobalSection
+EndGlobal
